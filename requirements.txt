@@ -1,5 +1,5 @@
 pandas
-matplotlib
 altair
 streamlit
 seaborn
+matplotlib
